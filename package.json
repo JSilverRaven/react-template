@@ -1,21 +1,15 @@
 {
-  "name": "anaheim",
+  "name": "react-template",
   "version": "1.0.0",
-  "description": "A fanmade anaheim electronics website",
+  "description": "Template",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JSilverRaven/anaheim.git"
+    "url": ""
   },
   "keywords": [
     "anaheim"
   ],
-  "author": "JSilverRaven",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JSilverRaven/anaheim/issues"
-  },
-  "homepage": "https://jsilverraven.github.io/anaheim-electronics",
   "scripts": {
     "start": "webpack serve --mode=development --port=3000",
     "build": "webpack --mode=production",
