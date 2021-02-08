@@ -1,2 +1,2 @@
-# anaheim
-A Simulated Anaheim Electronic Website
+# React Template
+
